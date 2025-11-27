@@ -34,13 +34,13 @@ To run **Volti** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/volti.git
+sudo git clone https://github.com//volti.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/volti.git
+git clone https://github.com//volti.git
 ```
 
 ### Contact
